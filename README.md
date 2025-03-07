@@ -1,7 +1,3 @@
-Here's a **well-structured, professional, and detailed `README.md`** for your **Spam Email Classifier** project. 🚀  
-
----
-
 # **📧 Spam Email Classifier**  
 *A full-stack Django-based spam classifier using Naive Bayes and Word2Vec*  
 
